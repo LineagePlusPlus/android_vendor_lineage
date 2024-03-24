@@ -27,7 +27,6 @@ endif
 
 # Extra cmdline tools
 PRODUCT_PACKAGES += \
-    unrar \
     zstd
 
 # Fonts
